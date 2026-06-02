@@ -84,7 +84,7 @@ Clasificación por umbrales:
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu_usuario/limpieza_y_visualizaciones_santander.git
+git clone https://github.com/Cinosaurio/limpieza_y_visualizaciones_surveys.git
 cd limpieza_y_visualizaciones_santander
 
 # 2. Instalar dependencias
